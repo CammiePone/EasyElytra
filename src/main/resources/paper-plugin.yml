@@ -1,0 +1,6 @@
+name: EasyElytra
+version: '${version}'
+main: dev.cammiescorner.easyelytra.EasyElytra
+api-version: '1.20'
+authors: [Cammie]
+website: https://cammiescorner.dev
